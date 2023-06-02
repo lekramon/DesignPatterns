@@ -1,4 +1,4 @@
-package org.example.ExemploFacade;
+package org.example.ExemploFacade.Exemplo1;
 
 public class Memory {
 

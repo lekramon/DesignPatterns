@@ -1,4 +1,4 @@
-package org.example.ExemploObserver;
+package org.example.ExemploObserver.Exemplo1;
 
 public class Main {
     public static void main(String[] args) {

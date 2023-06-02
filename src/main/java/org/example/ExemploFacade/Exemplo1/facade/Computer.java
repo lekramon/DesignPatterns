@@ -1,8 +1,8 @@
-package org.example.ExemploFacade.facade;
+package org.example.ExemploFacade.Exemplo1.facade;
 
-import org.example.ExemploFacade.Cpu;
-import org.example.ExemploFacade.Disk;
-import org.example.ExemploFacade.Memory;
+import org.example.ExemploFacade.Exemplo1.Cpu;
+import org.example.ExemploFacade.Exemplo1.Disk;
+import org.example.ExemploFacade.Exemplo1.Memory;
 
 public class Computer {
     private Cpu cpu;

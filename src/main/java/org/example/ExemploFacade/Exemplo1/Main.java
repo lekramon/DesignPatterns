@@ -1,6 +1,6 @@
-package org.example.ExemploFacade;
+package org.example.ExemploFacade.Exemplo1;
 
-import org.example.ExemploFacade.facade.Computer;
+import org.example.ExemploFacade.Exemplo1.facade.Computer;
 
 public class Main {
     public static void main(String[] args) {
